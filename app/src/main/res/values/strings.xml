@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Prueba2</string>
+    <string name="name_app">Repuestos</string>
+    <string name="category">Categoria</string>
+    <string name="browse">Navegar por autopartes</string>
+    <string name="brand">Marca</string>
+    <string name="price">Precio</string>
+    <string name="title2">Los más bendidos</string>
+</resources>
